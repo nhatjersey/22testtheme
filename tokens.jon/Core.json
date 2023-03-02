@@ -1096,7 +1096,7 @@
       },
       "baseHover-Active": {
         "value": {
-          "color": "{colorCore.white}",
+          "color": "{colorCore.backgrounds.24}",
           "width": "1px",
           "style": "solid"
         },
