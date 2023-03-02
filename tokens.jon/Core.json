@@ -1088,7 +1088,7 @@
     "1px": {
       "base": {
         "value": {
-          "color": "{colorCore.backgrounds.20}",
+          "color": "{colorCore.backgrounds.24}",
           "width": "1px",
           "style": "solid"
         },
