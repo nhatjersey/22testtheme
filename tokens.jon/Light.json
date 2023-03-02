@@ -586,27 +586,27 @@
   },
   "colorBackgrounds": {
     "colorBgContainer": {
-      "value": "{colorCore.backgrounds.24}",
+      "value": "{colorCore.white}",
       "type": "color"
     },
     "colorBgContainerDisabled": {
-      "value": "{colorCore.backgrounds.22}",
+      "value": "{colorCore.backgrounds.6}",
       "type": "color"
     },
     "colorBgLayout": {
-      "value": "{colorCore.backgrounds.23}",
+      "value": "{colorCore.backgrounds.2}",
       "type": "color"
     },
     "colorBgElevated": {
-      "value": "{colorCore.backgrounds.22}",
+      "value": "{colorCore.backgrounds.3}",
       "type": "color"
     },
     "colorBgSpotlight": {
-      "value": "{colorCore.backgrounds.20}",
+      "value": "{colorCore.backgrounds.2}",
       "type": "color"
     },
     "colorBgSpotlightHover": {
-      "value": "{colorCore.backgrounds.18}",
+      "value": "{colorCore.backgrounds.6}",
       "type": "color"
     },
     "colorBgMask": {
@@ -614,29 +614,29 @@
       "type": "color"
     },
     "noEdit": {
-      "value": "{colorCore.backgrounds.20}",
+      "value": "{colorCore.backgrounds.3}",
       "type": "color"
     },
     "bgStepItem": {
-      "value": "{colorCore.backgrounds.8}",
+      "value": "{colorCore.backgrounds.13}",
       "type": "color"
     }
   },
   "colorTextAndIcons": {
     "colorText": {
-      "value": "{colorCore.white}",
-      "type": "color"
-    },
-    "colorTextSecondary": {
       "value": "{colorCore.backgrounds.24}",
       "type": "color"
     },
-    "colorTextHeading": {
+    "colorTextSecondary": {
       "value": "{colorCore.white}",
       "type": "color"
     },
+    "colorTextHeading": {
+      "value": "{colorCore.backgrounds.24}",
+      "type": "color"
+    },
     "colorTextDescription": {
-      "value": "{colorCore.backgrounds.8}",
+      "value": "{colorCore.backgrounds.13}",
       "type": "color"
     },
     "colorTextPlaceholder": {
@@ -644,19 +644,19 @@
       "type": "color"
     },
     "colorTextDisabled": {
-      "value": "{colorCore.backgrounds.18}",
+      "value": "{colorCore.backgrounds.6}",
       "type": "color"
     },
     "colorIcon": {
-      "value": "{colorCore.white}",
+      "value": "{colorCore.backgrounds.24}",
       "type": "color"
     },
     "colorIconHover": {
-      "value": "{colorCore.backgrounds.4}",
+      "value": "{colorCore.backgrounds.22}",
       "type": "color"
     },
     "colorIconDisabled": {
-      "value": "{colorCore.backgrounds.18}",
+      "value": "{colorCore.backgrounds.6}",
       "type": "color"
     },
     "colorIconPrimary": {
@@ -668,7 +668,7 @@
       "type": "color"
     },
     "colorIconSecondary": {
-      "value": "{colorCore.backgrounds.8}",
+      "value": "{colorCore.backgrounds.13}",
       "type": "color"
     },
     "colorIconError": {
