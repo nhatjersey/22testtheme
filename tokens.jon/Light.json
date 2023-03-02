@@ -1351,7 +1351,7 @@
     "theme": {
       "base": {
         "value": {
-          "color": "{colorCore.white}",
+          "color": "{colorCore.backgrounds.24}",
           "width": "1.5px",
           "style": "solid"
         },
@@ -1359,7 +1359,7 @@
       },
       "baseHover": {
         "value": {
-          "color": "{colorCore.primary.5}",
+          "color": "{colorCore.backgrounds.22}",
           "width": "1.5px",
           "style": "solid"
         },
@@ -1367,7 +1367,7 @@
       },
       "disabled": {
         "value": {
-          "color": "{colorCore.backgrounds.18}",
+          "color": "{colorCore.backgrounds.6}",
           "width": "1.5px",
           "style": "solid"
         },
@@ -1375,7 +1375,7 @@
       },
       "secondary": {
         "value": {
-          "color": "{colorCore.backgrounds.8}",
+          "color": "{colorCore.backgrounds.13}",
           "width": "1.5px",
           "style": "solid"
         },
